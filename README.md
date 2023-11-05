@@ -13,8 +13,7 @@ Create an index.html page from scratch in a text editor code the website and zip
 
 Deploying and hosting a web page with AWS Amplify:
 
-
-![Alt text][def2]
+![Alt text](image-9.png)
 
 Creating a Python code in Lambda function to implement our math functionality :
 
@@ -44,4 +43,5 @@ Updating the index.html page to call API Gateway:
 
 
 
-Re-deploying our index.html page using Amplify
+Re-deploying our index.html page using Amplify:
+![Alt text](image-10.png)
