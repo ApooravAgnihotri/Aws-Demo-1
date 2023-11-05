@@ -6,49 +6,43 @@ Services used and demonstrated --
 
 [def]: image.png
 
-Create an index.html page from scratch in a text editor code the website and zip the file -                                                                                                                                                                                                                                                                                                                                                                                                                           
+Create an index.html page from scratch in a text editor code the website and zip the file -                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 ![Alt text](image-1.png)
 
-Deploying and hosting a web page with AWS Amplify
+Deploying and hosting a web page with AWS Amplify:
 
 
-math calculations in our web application
+![Alt text][def2]
+
+Creating a Python code in Lambda function to implement our math functionality :
+
+![Alt text](image-3.png)
 
 
-Creating a Python Lambda function to implement our math functionality
+Creating a REST API for our Lambda function using API Gateway:
+![Alt text](image-4.png)
 
 
-Testing our Lambda function  How to invoke our Lambda function
+Creating a new DynamoDB table to store our math result:
+![Alt text](image-5.png)
 
 
-
-Creating a REST API for our Lambda function using API Gateway
-
-
-
-persist our math result to a database, and also handle permissions
-
-
-Creating a new DynamoDB table to store our math result
-
-
-
-Giving Lambda permission to write to the DynamoDB table
+Giving Lambda permission to write to the DynamoDB table:
+![Alt text](image-6.png)
 
 
 
-Updating the Lambda function code to write to the DynamoDB table
+Updating the Lambda function code to write to the DynamoDB table:
+![Alt text](image-7.png)
 
 
 
-
-Invoking the API Gateway endpoint from the index.html page in Amplify
-
-
-
-Updating the index.html page to call API Gateway
+Updating the index.html page to call API Gateway:
+![Alt text](image-8.png)
 
 
 
 Re-deploying our index.html page using Amplify
+
+[def2]: image-2.png
