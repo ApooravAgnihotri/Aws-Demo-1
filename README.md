@@ -2,11 +2,13 @@
 AWS Project - Architect and Build an End-to-End AWS Web Application
 
 Services used and demonstrated -
+
 ![Alt text][def]
 
 [def]: image.png
 
-Create an index.html page from scratch in a text editor code the website and zip the file
+Create an index.html page from scratch in a text editor code the website and zip the file -
+
 ![Alt text](image-1.png)
 
 Deploying and hosting a web page with AWS Amplify
