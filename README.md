@@ -1,12 +1,13 @@
 # Project
 AWS Project - Architect and Build an End-to-End AWS Web Application
 
-Services used and demonstrated --                                                                                                                                                                                                                                                                                                                                                                                                                           
+Services used and demonstrated :
+
 ![Alt text][def]
 
 [def]: image.png
 
-Create an index.html page from scratch in a text editor code the website and zip the file -                                                                                                                                                                                                                                                                                                                                                                                                                    
+Create an index.html page from scratch in a text editor code the website and zip the file :    
 
 ![Alt text](image-1.png)
 
@@ -44,5 +45,3 @@ Updating the index.html page to call API Gateway:
 
 
 Re-deploying our index.html page using Amplify
-
-[def2]: image-2.png
