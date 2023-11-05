@@ -9,8 +9,7 @@ Services used and demonstrated :
 
 Create an index.html page from scratch in a text editor code the website and zip the file :    
 
-![Alt text](image-1.png)
-
+![Alt text](image-11.png)
 Deploying and hosting a web page with AWS Amplify:
 
 ![Alt text](image-9.png)
