@@ -44,3 +44,9 @@ Updating the index.html page to call API Gateway:
 
 Re-deploying our index.html page using Amplify:
 ![Alt text](image-10.png)
+
+Final result : https://dev.d67ewasef5yc.amplifyapp.com/
+
+
+
+![Alt text](image-12.png)
